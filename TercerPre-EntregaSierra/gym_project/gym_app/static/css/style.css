@@ -1,0 +1,22 @@
+*{margin: 0px;
+padding: 0px;
+}
+/* ----------- Index ----------- */
+header{
+    width: 100%;
+     
+}
+
+.imgbanner{
+    display: block;
+    margin: auto;
+    width: 100%;
+    max-width: 1500px;
+    min-width: 500px;
+}
+
+.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
